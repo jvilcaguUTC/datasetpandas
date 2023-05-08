@@ -1,12 +1,5 @@
 ﻿{
-    "Url": "www.epdata.es/evolucion-desempleo-ecuador/975b2c80-b6ca-443e-bc54-907561bf6f18",
-    "Respuesta": {
-        "Id": "975b2c80-b6ca-443e-bc54-907561bf6f18",
-        "Url": "www.epdata.es/evolucion-desempleo-ecuador/975b2c80-b6ca-443e-bc54-907561bf6f18",
-        "Titulo": "Evolución del desempleo en Ecuador",
-        "Subtitulo": "",
-        "Datos": {
-            "Metricas": [
+                "Metricas": [
                 {
                     "Id": 0,
                     "Nombre": "%",
@@ -532,6 +525,5 @@
                     ]
                 }
             ]
-        }
-    }
+
 }
